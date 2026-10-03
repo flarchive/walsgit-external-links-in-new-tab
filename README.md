@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of walsgit/external-links-in-new-tab.** Not for installation: use [Packagist](https://packagist.org/packages/walsgit/external-links-in-new-tab) or the [upstream repository](https://github.com/WalsGit/external-links-in-new-tab).
 
-**0** versions archived · Latest: [`2.1.0`](https://github.com/flarchive/walsgit-external-links-in-new-tab/tree/archive/v2.1.0) · License: `MIT` · Flarum: `^2.0.0-beta`
+**8** versions archived · Latest: [`2.1.0`](https://github.com/flarchive/walsgit-external-links-in-new-tab/tree/archive/v2.1.0) · License: `MIT` · Flarum: `^2.0.0-beta`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2024-11-16 | `^1.2.0` | [Browse](https://github.com/flarchive/walsgit-external-links-in-new-tab/tree/archive/v1.0.0) |
+| `1.0.1` | 2024-11-16 | `^1.2.0` | [Browse](https://github.com/flarchive/walsgit-external-links-in-new-tab/tree/archive/v1.0.1) |
+| `1.1.0` | 2024-11-18 | `^1.2.0` | [Browse](https://github.com/flarchive/walsgit-external-links-in-new-tab/tree/archive/v1.1.0) |
+| `1.1.1` | 2024-11-22 | `^1.2.0` | [Browse](https://github.com/flarchive/walsgit-external-links-in-new-tab/tree/archive/v1.1.1) |
+| `1.1.2` | 2025-05-26 | `^1.2.0` | [Browse](https://github.com/flarchive/walsgit-external-links-in-new-tab/tree/archive/v1.1.2) |
+| `1.2.0` | 2026-03-05 | `^1.2.0` | [Browse](https://github.com/flarchive/walsgit-external-links-in-new-tab/tree/archive/v1.2.0) |
+| `2.0.0` | 2025-11-19 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/walsgit-external-links-in-new-tab/tree/archive/v2.0.0) |
+| `2.1.0` | 2026-03-05 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/walsgit-external-links-in-new-tab/tree/archive/v2.1.0) |
 
 Catalog entry: [packages/walsgit-external-links-in-new-tab.json](https://github.com/flarchive/archive-index/blob/main/packages/walsgit-external-links-in-new-tab.json)
 
